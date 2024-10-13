@@ -1,0 +1,27 @@
+.chatbot-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text-dark_theme {
+    color: #333; /* Change as needed */
+  }
+  
+  .text-light_theme {
+    color: #666; /* Change as needed */
+  }
+  
+  .bg-dark_theme {
+    background-color: #4a90e2; /* Dark theme color */
+  }
+  
+  .bg-light_theme {
+    background-color: #f1f1f1; /* Light theme color */
+  }
+  
+  input:focus {
+    outline: none;
+    border: 1px solid #4a90e2; /* Change focus border color */
+  }
+  
