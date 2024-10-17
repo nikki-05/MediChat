@@ -6,7 +6,7 @@ Frontend: React.js
 Backend: Google Generative AI for handling natural language queries
 Styling: Tailwind CSS
 APIs: Google Generative AI Model
-Configuration: API keys are stored securely using an .env file
+Configuration: API keys are stored securely using a .env file
 
 ## Installation and Setup
 Prerequisites
@@ -28,12 +28,15 @@ Set up your environment variables:
 
 ->Create a .env file in the root directory of the project.
 Add the following to the .env file:
--REACT_APP_API_KEY=your-google-generative-ai-api-key   (create your own API key from Google AI studio)
+-REACT_APP_API_KEY=your-google-generative-ai-API-key   (create your API key from Google AI studio)
 
 ->Start the development server:
 
 -npm start
 ->Open the app in your browser at http://localhost:3000.
+
+## For any queries and help please contact 
+nikitatewari1633@gmail.com 
 
 And you are good to go! :)
 
