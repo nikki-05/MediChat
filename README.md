@@ -3,9 +3,13 @@
 
 ## Technology Stack
 Frontend: React.js
+
 Backend: Google Generative AI for handling natural language queries
+
 Styling: Tailwind CSS
+
 APIs: Google Generative AI Model
+
 Configuration: API keys are stored securely using a .env file
 
 ## Installation and Setup
