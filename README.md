@@ -1,5 +1,5 @@
 # MediChat
- MediHub Bot aims to empower students by providing reliable and timely information about their mental health. Combining technology with a user-friendly approach makes the chatbot a valuable resource for those seeking guidance and support.
+MediHub Bot aims to empower students by providing reliable and timely information about their mental health. Combining technology with a user-friendly approach makes the chatbot a valuable resource for those seeking guidance and support.
 
 ## Technology Stack
 Frontend: React.js
@@ -39,6 +39,7 @@ Add the following to the .env file:
 -npm start
 ->Open the app in your browser at http://localhost:3000.
 
+Feedback and contributions are Welcomed 
 ## For any queries and help please contact 
 nikitatewari1633@gmail.com 
 
